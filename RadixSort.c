@@ -42,10 +42,6 @@ while(num>9)
 num=num/10;
 dc++;
 }
-for(y=0;y<req;y++)
-{
-printf("rear[y]=%d and fornt[y]=%d\n",rear[y],front[y]);
-}
 e=10;
 f=1;
 a=0;
